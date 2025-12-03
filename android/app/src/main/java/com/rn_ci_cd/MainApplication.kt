@@ -1,4 +1,4 @@
-package com.appwriteauth
+package com.rn_ci_cd
 
 import android.app.Application
 import com.facebook.react.PackageList
